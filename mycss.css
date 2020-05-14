@@ -30,12 +30,28 @@
     color: white;
     padding-top: 40px;
     padding-bottom: 25px;
+    padding-right: 60px;
+    padding-left: 60px;
 
 }
 
 .subtittle{
     color: white;
     margin-bottom: 55px
+    padding-right: 80px;
+    margin-right: 80px;
+    padding-left: 60px;
+    margin-bottom: 60px;
+
+}
+
+.emailcaughtmessage{
+    color: white;
+    margin-bottom: 55px
+    padding-right: 80px;
+    margin-right: 80px;
+    padding-left: 60px;
+    margin-bottom: 60px;
 
 }
 
@@ -49,6 +65,10 @@
 .detailButton{
     background: rgb(31, 101, 231);
     color: white;
+}
+
+.emailcaught{
+    visibility:hidden;
 }
 
 .closedealbutton{
